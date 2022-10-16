@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center"> Hi, I'm Karla 👋👩🏻‍💻</h1>
 
-<!--
-**karlavasquez8/karlavasquez8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Laboratorian 👩🏻‍🎓<💛>
+<div align="center">
+  <img src="https://media.giphy.com/media/BACNp4PYgXACSPujxi/giphy.gif" width="400" height="250"/>
+</div>
 
-Here are some ideas to get you started:
+```js
+const karla = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [ React,Node, Jest],
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :fire: My Github Stats
+
+<div align="center">
+
+[![Karla Vasquez GitHub stats](https://github-readme-stats.vercel.app/api?username=karlavasquez8&show_icons=true&theme=radical)
+](https://github.com/karlavasquez8/github-readme-stats)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=karlavasquez8&theme=radical)
+
+
+## 🌐 Contact Me 
+<div align="center">
+
+[![Linkedin: karlavasquez](https://img.shields.io/badge/karlavasquez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karlavasquez/)](https://www.linkedin.com/in/karla-vasquez-47633b112/)
+[![GitHub karlavasquez8](https://img.shields.io/github/followers/karlavasquez8?label=follow&style=social)](https://github.com/karlavasquez8)
