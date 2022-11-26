@@ -8,7 +8,7 @@
 ```js
 const karla = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS],
+  code: [Javascript ES6, Typescript, HTML5, CSS3],
   tools: [ React,Node, Jest],
 }
 ```
