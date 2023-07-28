@@ -1,6 +1,5 @@
 <h1 align="center"> Hi, I'm Karla 👋👩🏻‍💻</h1>
 
-### Laboratorian 👩🏻‍🎓<💛>
 <div align="center">
   <img src="https://media.giphy.com/media/BACNp4PYgXACSPujxi/giphy.gif" width="400" height="250"/>
 </div>
