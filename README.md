@@ -35,7 +35,8 @@ const karla = {
 
 <!-- GitHub Stats -->
 <a href="https://github.com/karlavasquez8/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=karlavasquez8&show_icons=true&theme=radical" />
+  <img [src="https://github-readme-stats.vercel.app/api?username=karlavasquez8&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=karlavasquez8&show_icons=true&theme=radical&cache_seconds=3600
+)" />
 </a>
 
 <!-- GitHub Streak -->
