@@ -6,26 +6,33 @@
 
 ```js
 const karla = {
-  pronouns: "she" | "her",
+  pronouns: "she" as const,
   code: ["Javascript ES6", "Typescript", "HTML5", "CSS3"],
-  tools: ["Next Js", "Node", "Jest"],
+  tools: ["Next Js", "Node", "Jest", "React Native", "Expo Go", "Vue"],
   designTools: ["Tailwind CSS", "Figma"],
   web3: true
 }
 ```
 
-### :fire: My Github Stats
+🧠 What I Love
+🚀 Building fast and responsive UIs
 
-<div align="center">
+🛠 Creating reusable components
 
-[![Karla Vasquez GitHub stats](https://github-readme-stats.vercel.app/api?username=karlavasquez8&show_icons=true&theme=radical)
-](https://github.com/karlavasquez8/github-readme-stats)
+💡 Learning about new tech & design systems
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=karlavasquez8&theme=radical)
+🤝 Collaborating on open-source
 
+🌍 Making the web more inclusive
+
+### 🔥 My GitHub Stats
+
+
+<div align="center"> <a href="https://github.com/karlavasquez8/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=karlavasquez8&show_icons=true&theme=radical" /> </a> <a href="https://git.io/streak-stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=karlavasquez8&theme=radical" /> </a> </div>
+
+### ⚡ Technologies I Enjoy
+<div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,html,css,vue,react,next,node,tailwind,figma,git,jest,github" /> </div>
 
 ## 🌐 Contact Me 
-<div align="center">
 
-[![Linkedin: karlavasquez](https://img.shields.io/badge/karlavasquez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karlavasquez/)](https://www.linkedin.com/in/karla-vasquez-47633b112/)
-[![GitHub karlavasquez8](https://img.shields.io/github/followers/karlavasquez8?label=follow&style=social)](https://github.com/karlavasquez8)
+<div align="center"> <a href="https://www.linkedin.com/in/karla-vasquez-47633b112/" target="_blank"> <img src="https://img.shields.io/badge/karlavasquez-blue?style=flat-square&logo=Linkedin&logoColor=white" /> </a> <a href="https://github.com/karlavasquez8" target="_blank"> <img src="https://img.shields.io/github/followers/karlavasquez8?label=Follow&style=social" /> </a> </div> ```
