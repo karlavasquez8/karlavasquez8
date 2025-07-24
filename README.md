@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Karla 👋👩🏻‍💻</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/BACNp4PYgXACSPujxi/giphy.gif" width="400" height="250"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca5443ec6a2e5b982d8e47d1e8.gif" width="400" height="250" />
 </div>
 
 ```js
@@ -35,4 +35,4 @@ const karla = {
 
 ## 🌐 Contact Me 
 
-<div align="center"> <a href="https://www.linkedin.com/in/karla-vasquez-47633b112/" target="_blank"> <img src="https://img.shields.io/badge/karlavasquez-blue?style=flat-square&logo=Linkedin&logoColor=white" /> </a> <a href="https://github.com/karlavasquez8" target="_blank"> <img src="https://img.shields.io/github/followers/karlavasquez8?label=Follow&style=social" /> </a> </div> ```
+<div align="center"> <a href="https://www.linkedin.com/in/karla-vasquez-47633b112/" target="_blank"> <img src="https://img.shields.io/badge/karlavasquez-blue?style=flat-square&logo=Linkedin&logoColor=white" /> </a> <a href="https://github.com/karlavasquez8" target="_blank"> <img src="https://img.shields.io/github/followers/karlavasquez8?label=Follow&style=social" /> </a> </div> 
