@@ -55,9 +55,6 @@ const karla = {
 
 </div>
 
-
-<div align="center"> <a href="https://github.com/karlavasquez8/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=karlavasquez8&show_icons=true&theme=radical" /> </a> <a href="https://git.io/streak-stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=karlavasquez8&theme=radical" /> </a> </div>
-
 ### ⚡ Technologies I Enjoy
 <div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,html,css,vue,react,next,node,tailwind,figma,git,jest,github" /> </div>
 
