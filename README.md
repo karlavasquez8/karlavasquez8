@@ -31,30 +31,7 @@ const karla = {
 
 ### 📈 My Contributions
 
-<div align="center">
-
-<!-- GitHub Stats -->
-<a href="https://github.com/karlavasquez8/github-readme-stats">
-  <img [src="https://github-readme-stats.vercel.app/api?username=karlavasquez8&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=karlavasquez8&show_icons=true&theme=radical&cache_seconds=3600
-)" />
-</a>
-
-<!-- GitHub Streak -->
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karlavasquez8&theme=radical" />
-</a>
-
-<!-- Lenguajes más usados -->
-<a href="https://github.com/karlavasquez8/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlavasquez8&layout=compact&theme=radical" />
-</a>
-
-<!-- Snake graph (opcional si activas GitHub Action) -->
-<!--
-<img src="https://github.com/karlavasquez8/karlavasquez8/blob/output/github-contribution-grid-snake.svg" />
--->
-
-</div>
+<div align="center"> <!-- GitHub Stats --> <a href="https://github.com/karlavasquez8/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=karlavasquez8&show_icons=true&theme=radical&cache_seconds=3600" /> </a> <!-- GitHub Streak --> <a href="https://git.io/streak-stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=karlavasquez8&theme=radical" /> </a> <!-- Lenguajes más usados --> <a href="https://github.com/karlavasquez8/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlavasquez8&layout=compact&theme=radical&cache_seconds=3600" /> </a> <!-- Snake graph (opcional si activas GitHub Action) --> <!-- <img src="https://github.com/karlavasquez8/karlavasquez8/blob/output/github-contribution-grid-snake.svg" /> --> </div>
 
 ### ⚡ Technologies I Enjoy
 <div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,html,css,vue,react,next,node,tailwind,figma,git,jest,github" /> </div>
